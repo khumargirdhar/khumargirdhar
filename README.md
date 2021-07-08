@@ -7,4 +7,4 @@ I also am a student pursuing BCA at VIPS, Pitampura, Delhi.</p>
 #### ->💼 My portfolio website - https://khumargirdhar.github.io
 #### ->🧑🏻‍💻 My 100DaysOfSwift projects - https://github.com/khumargirdhar/100DaysOfSwift
 #### ->🔗 All my social links - https://solo.to/khumar
-#### ->✉️ Mail me at - [khumargirdhar@gmail.com](mailto:khumargirdhar@gmail.com)
+#### ->✉️ Mail me at - [My mail ID](mailto:khumargirdhar@gmail.com)
