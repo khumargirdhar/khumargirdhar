@@ -8,4 +8,4 @@ I also am a student pursuing BCA at VIPS, Pitampura, Delhi.</p>
 #### ->🧑🏻‍💻 My 100DaysOfSwift projects - https://github.com/khumargirdhar/100DaysOfSwift
 #### ->🔗 All my social links - https://solo.to/khumar
 #### ->✉️ Mail me at - [My mail ID](mailto:khumargirdhar@gmail.com)
-<p align="left"><img src="![](https://komarev.com/ghpvc/?username=khumargirdhar)" alt="Khumar Girdhar"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=khumargirdhar" alt="Khumar Girdhar"/> </p>
