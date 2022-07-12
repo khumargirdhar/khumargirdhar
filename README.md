@@ -7,8 +7,9 @@
 - 🎓 I am a BCA graduate from VIPS, Delhi (Batch 2019-2022)
 - 💼 My online portfolio - https://khumargirdhar.github.io
 - 🧑🏻‍💻 My 100DaysOfSwift projects - https://github.com/khumargirdhar/100DaysOfSwift
+- ✉️ Mail me at - [My email](mailto:khumargirdhar@gmail.com)
+- 💬 Feel free to reach me on [Twitter](https://www.twitter.com/khumargirdhar) and [LinkedIn](https://www.linkedin.com/in/khumargirdhar)
 - 🔗 Social Links - https://linktr.ee/khumar
-- ✉️ Mail me at - [My mail ID](mailto:khumargirdhar@gmail.com)
 </br>
 </br>
 </br>
