@@ -15,4 +15,6 @@
 </br>
 </br>
 </br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=khumargirdhar" alt="Khumar Girdhar"/> </p>
+<h1> GitHub Stats </h1>
+<p align="left"> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=khumargirdhar&theme=github_dark&card_width=349em" alt="GitHub Stats"/> <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khumargirdhar&layout=compact&langs_count=10&theme=github_dark&card_width=349em" alt="Top Languages Used"/> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=khumargirdhar" alt="Profile Count"/> </p>
