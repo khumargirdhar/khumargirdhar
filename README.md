@@ -17,6 +17,6 @@
 </br>
 </br>
 <h1> GitHub Stats </h1>
-<p align="left"> <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=khumargirdhar&theme=github_dark&include_all_commits=true" alt="GitHub Stats"/> </p>
+<p align="left"> <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=khumargirdhar&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/> </p>
 <p align="left"> <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khumargirdhar&layout=compact&langs_count=10&theme=github_dark&card_width=370em" alt="Top Languages Used"/> </p>
 <p align="center"> <img align="centre" src="https://komarev.com/ghpvc/?username=khumargirdhar" alt="Profile Views Count"/> </p>
