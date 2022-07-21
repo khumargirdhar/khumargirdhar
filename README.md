@@ -18,7 +18,7 @@
 </br>
 <h1> GitHub Stats </h1>
 
-| <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=khumargirdhar&theme=github_dark&include_all_commits=true&count_private=true" alt="Khumar Girdhar's GitHub Stats"/> </a> | <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khumargirdhar&layout=compact&langs_count=10&theme=github_dark&card_width=370em" alt="Top Languages Used"/> </a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=khumargirdhar&theme=github_dark&include_all_commits=true&count_private=true"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=khumargirdhar&theme=github_dark&include_all_commits=true&count_private=true" alt="Khumar Girdhar's GitHub Stats"/> </a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=khumargirdhar&layout=compact&langs_count=10&theme=github_dark"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khumargirdhar&layout=compact&langs_count=10&theme=github_dark&card_width=350em" alt="Top Languages Used"/> </a> |
 | ------------- | ------------- |
 <p align="center"> <img align="centre" src="https://komarev.com/ghpvc/?username=khumargirdhar" alt="Profile Views Count"/> </p>
 
