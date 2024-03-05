@@ -4,7 +4,7 @@
 <p>I focus on building apps & games for Apple's platforms using User-Intuitive design that helps making users' life easier, helping them get the best out of their devices. 
 </p>
 
-- 🎓 I am a BCA graduate from VIPS, Delhi (Batch 2019-2022)
+- 🎓 I am an MCA student at CDAC, Noida (Batch 2023 - 2025)
 - 💼 My online portfolio - https://khumargirdhar.github.io
 - 🧑🏻‍💻 My 100DaysOfSwift projects - https://github.com/khumargirdhar/100DaysOfSwift
 - ✉️ Mail me at - [My email](mailto:khumargirdhar@outlook.com)
